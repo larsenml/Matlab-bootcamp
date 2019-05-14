@@ -1,5 +1,5 @@
 # Matlab-bootcamp
-
+%% See Computers in Physics Notes and Exercises
 Things to discuss:
 
 Command line vs. script vs. function -- in contrast with compiled langauge
@@ -21,5 +21,3 @@ Code Flowcharting
 Loops and Conditionals
 
 tic/toc
-
-%% See Computers in Physics Notes and Exercises
