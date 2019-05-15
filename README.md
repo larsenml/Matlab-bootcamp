@@ -1,10 +1,13 @@
 # Matlab-bootcamp
-%% See Computers in Physics Notes and Exercises
-Things to discuss:
+What is MATLAB?
 
-Command line vs. script vs. function -- in contrast with compiled langauge
+Familiarizing with the Environment
+
+Command line vs. script vs. function
 
 Help and Lookfor commands
+
+Programming Basics
 
 Data Structures
 
@@ -14,10 +17,12 @@ Built in Functions
 
 Plotting
 
-Loading Data
+Loading/Manipulating Data
 
-Code Flowcharting
+Conditionals/Loops
 
-Loops and Conditionals
+tic/toc and debugging
 
-tic/toc
+scripting
+
+writing functions
